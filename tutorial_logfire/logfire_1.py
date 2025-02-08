@@ -1,6 +1,6 @@
-import logfire
+import tutorial_logfire.logfire_1 as logfire_1
 
 
-logfire.configure()
+logfire_1.configure()
 
-logfire.info("Hello, {name}!", name="Logfire")
+logfire_1.info("Hello, {name}!", name="Logfire")
