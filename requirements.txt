@@ -1,0 +1,11 @@
+python-dotenv
+requests
+openai
+pydantic-ai
+crawl4ai
+websockets
+pyee
+pyppeteer
+supabase 
+logfire
+streamlit
